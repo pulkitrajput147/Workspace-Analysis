@@ -1,3 +1,4 @@
 openai==1.11.1
 streamlit
 pillow==10.3.0
+python-dotenv
