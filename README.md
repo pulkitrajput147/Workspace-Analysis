@@ -7,7 +7,8 @@ Back Support Analysis: Determines whether the upper, mid, and lower back are sup
 Distance from Screen Analysis: Measures the distance between the user and the screen, classifying it as "Less than one arm’s length," "One arm’s length," or "More than one arm’s length."
 Annotated Results: Displays the analyzed image with highlighted/annotated results for easy visualization of the findings.
 
-How to Use:
+# How to Use:
+
 run streamlit app.py
 
 Upload an image of the workspace.
