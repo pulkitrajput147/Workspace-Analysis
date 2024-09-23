@@ -9,7 +9,7 @@ Annotated Results: Displays the analyzed image with highlighted/annotated result
 
 # How to Use:
 
-run streamlit app.py
+streamlit run  app.py
 
 Upload an image of the workspace.
 The system will automatically detect objects and analyze posture.
